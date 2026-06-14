@@ -81,7 +81,7 @@ SEO · Skeleton Loading
 ### BookKart `LIVE`
 **Full-stack e-commerce platform** with separate customer & seller portals, real payments, enterprise-grade security.
 
-🔗 [GitHub](https://github.com) · [Live Demo](https://bookkart-live.com)
+🔗 [GitHub](https://github.com) · [Live Demo](https://book-kart-frontend-two.vercel.app/)
 
 **Stack:** Next.js · TypeScript · RTK Query · Express.js · MongoDB · Redis · Zod · Tailwind CSS · Razorpay
 
@@ -107,7 +107,7 @@ SEO · Skeleton Loading
 ### WhisperNet `LIVE`
 **Real-time messaging platform** with 6+ live features, media sharing, emoji reactions, and end-to-end presence tracking.
 
-🔗 [GitHub](https://github.com) · [Live Demo](https://whispernet-live.com)
+🔗 [GitHub](https://github.com) · [Live Demo](https://whisper-net-three.vercel.app/)
 
 **Stack:** React.js · Socket.IO · Zustand · Node.js · MongoDB · Cloudinary · Tailwind CSS · Yup
 
